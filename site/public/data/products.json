@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "https://static.hanos.com/sys-master/productimages/hbc/h50/10331141013534/256Wx256H_null",
+        "productName": "Classic",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 19.99
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://www.palazzodiscarpe.gr/wp-content/uploads/2023/09/mamoush-winter23007-2500px-256x256.jpg",
+        "productName": "Блузка",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 24.99
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://algopix.com/products/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F516MFWm8KxL._SL500_.jpg&w=256&q=75",
+        "productName": "Костюм",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 19.99
+    },
+    {
+        "id": 4,
+        "imageUrl": "https://algopix.com/products/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F21KKK6GXzsL._SL400_.jpg&w=256&q=75",
+        "productName": "Пижама",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 19.99
+    },
+    {
+        "id": 5,
+        "imageUrl": "https://algopix.com/products/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51W6L%2BwMeTL._SL500_.jpg&w=256&q=75",
+        "productName": "Двойка",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 19.99
+    }
+    
+]
